@@ -1,0 +1,24 @@
+body {
+    background-color: #DEBDBB;
+    color: #2B465E;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    padding: 20px;
+    width: 100%;
+}
+
+#table th {
+    background-color: #C47F7B;
+}
+h1.results{
+    font-family: "Lucida Console", Courier, monospace;
+    text-align: left;
+}
+
+h2.headerOfTable{
+    font-family: "Lucida Console", Courier, monospace;
+    text-align: center;
+}

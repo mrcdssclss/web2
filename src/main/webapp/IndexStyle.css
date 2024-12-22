@@ -1,0 +1,63 @@
+body {
+    background-color: #DEBDBB;
+    color: #2B465E;
+}
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #C47F7B;
+    color: #BACDDE;
+    cursor: pointer;
+}
+img {
+    width: 300px;
+    height: 300px;
+}
+
+table {
+    margin: auto;
+    width: 800px;
+    text-align: center;
+}
+
+button:hover {
+    background-color: #C47F7B;
+}
+
+label, select, input, button {
+    width: 25%;
+}
+
+#yInput {
+    font-size: 15px;
+    padding: 20px;
+}
+
+#graph {
+    width: 30%;
+    padding: 10px;
+    left: 50%;
+}
+
+.h2{
+    text-align: center;
+}
+
+input[type="number"] {
+    justify-content: center;
+    align-items: center;
+
+    padding: 5%;
+    border: none;
+    border-radius: 15px;
+    width: 70%;
+    max-width: 300px;
+    background-color: #C47F7B;
+    color: #DEBDBB;
+}
+
+#main{
+    text-align: center;
+}
